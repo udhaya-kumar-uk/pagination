@@ -1,0 +1,15 @@
+table,
+tr,
+body,
+td {
+    border: 1px solid azure;
+    color: azure;
+    background: black;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    margin: 40pxpx;
+    padding: 30px;
+}
